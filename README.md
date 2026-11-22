@@ -87,6 +87,8 @@ Methodology and process for implementation
 7.The route planner assigns pickup from the village hub and plans the delivery route.
 
 8.The produce is delivered from the hub to the buyer.
+![Uploading Screenshot 2026-11-22 174619.png…]()
+
 
 ## Feasibility and Viability
 Analysis of the feasibility of the idea
